@@ -1,0 +1,1 @@
+﻿Site Yönetim Sayfasına Hoş Geldiniz  İşlemler içinyandaki  menüyü kullanın

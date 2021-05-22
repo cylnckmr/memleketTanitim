@@ -1,0 +1,46 @@
+.asagi{
+	padding-top:80px;
+	
+}
+.menu {
+
+background-color:black;
+ padding-left:120px;
+
+ float:right;
+
+}
+.sagayasla { 
+
+  padding-right:120px;
+}
+
+  
+
+.hyazi{
+	text-align:justify;
+	font-size:22px;
+    color:black;	
+}
+.renk{
+	
+	background-color:LightCyan;
+}
+.resimarka {
+	height: 300px;
+
+    width: 100px;
+}
+.butonrenk{
+	color:MediumBlue;
+}
+.uyeyazi{
+	font:35px;
+	padding-right:300px;
+}
+.yonet-ayar{
+   
+	padding-top:200px;
+	margin-top:0px;
+    background-color:LightCyan;
+}
